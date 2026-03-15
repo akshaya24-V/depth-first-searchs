@@ -73,7 +73,6 @@ F H <BR>
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
 
 <hr>
-
 <hr>
 <h3>Sample Input</h3>
 <hr>
